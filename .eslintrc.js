@@ -3,6 +3,6 @@ module.exports = {
   extends: '@react-native',
   rules: {
     'prettier/prettier': 0,
-    //'react-native/no-inline-styles': 0,
+    'react-native/no-inline-styles': 0,
   },
 };
